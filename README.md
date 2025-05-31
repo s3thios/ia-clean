@@ -19,17 +19,3 @@ git clone https://github.com/s3thios/ia-clean.git
 cd ia-clean
 chmod +x install-linux.sh
 sudo ./install-linux.sh
-
-## 🧩 Instalación
-
-### macOS
-git clone https://github.com/s3thios/ia-clean.git
-cd ia-clean
-chmod +x install-mac.sh
-sudo ./install-mac.sh
-
-## 🧩 Instalación
-
-### Windows
-Ejecuta install-windows.bat y sigue las instrucciones.
-
