@@ -20,12 +20,16 @@ cd ia-clean
 chmod +x install-linux.sh
 sudo ./install-linux.sh
 
-```macOS
+## 🧩 Instalación
+
+### macOS
 git clone https://github.com/s3thios/ia-clean.git
 cd ia-clean
 chmod +x install-mac.sh
 sudo ./install-mac.sh
 
-```Windows (WSL o Git Bash)
+## 🧩 Instalación
+
+### Windows
 Ejecuta install-windows.bat y sigue las instrucciones.
 
